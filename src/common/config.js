@@ -14,5 +14,5 @@ module.exports = {
   MAX_SYMBOLS_PER_OBJECT: 5000,
   MAX_OPTIONAL_PROPERTIES: 100,
   LOGS_DIR: path.join(__dirname, '../../logs'),
-  JWT_EXPIRE_TIME: '4h'
+  JWT_EXPIRE_TIME: '12h'
 };
