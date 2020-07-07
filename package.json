@@ -52,7 +52,7 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.9.7",
     "morgan": "^1.10.0",
-    "npm": "^6.14.4",
+    "npm": "^6.14.6",
     "swagger-ui-express": "4.1.2",
     "uuid": "3.3.3",
     "winston": "^3.2.1",
